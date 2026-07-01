@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', () => {         //HINT : HTML Docu
     const gameData = {
 
         // Puzzle 1: Emoji 
-        1: { answer: "blackberry", question: "Guess the tech platform based on these emojis: <br><br> ⬛+��" },
+        1: { answer: "blackberry", question: "Guess the tech platform based on these emojis: <br><br> ⬛+🫐" },
         // Puzzle 2: HTML Riddle 
         2: { answer: "html", question: "I provide the structural skeleton for every web page. I am made entirely of tags, but I am not a game. What am I?" },
         // Puzzle 3: JS Coding Concept (Closures/Currying) 
