@@ -3,6 +3,8 @@ Welcome to Portfolio-Game, an interactive and playful twist on the traditional d
 
 This project is a charming, entry-level web game built to showcase my early development journey. By blending creative design with foundational programming logic, it transforms a static portfolio into an engaging experience.
 
+Started from a boilerplate provided by my instructor, customized with according to me to build my personal portfolio.
+
 🛠️ Built With
 HTML – Crafting the structure and layout of the game environment.
 
